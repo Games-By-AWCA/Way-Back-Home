@@ -1,2 +1,3 @@
 # Way-Back-Home
-The new, reloaded, way back home repo!
+Welcome to the new way back home game!
+This is still a stub, btw
